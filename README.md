@@ -66,13 +66,13 @@ Include the following files inside the prototype folder:
 ## homepage
 <img width="1080" height="1350" alt="1" src="https://github.com/user-attachments/assets/ed0991db-9a8b-494d-980a-579deba6d7fd" />
 
-## skill_test_screen.png
+## skill_test_screen
 <img width="1080" height="1350" alt="2" src="https://github.com/user-attachments/assets/8761a1a2-a0ab-42f4-8726-e6eb28082407" />
 
-## results_screen.png
+## results_screen
 <img width="1080" height="1350" alt="3" src="https://github.com/user-attachments/assets/3dc6f551-85a1-41e2-9c3d-5f5526947165" />
 
-## architecture_diagram.png
+## architecture_diagram
 <img width="1080" height="1350" alt="4" src="https://github.com/user-attachments/assets/47b776a4-c658-4393-bb4b-25871e3d25b2" />
 
 These screens show the basic design and workflow of the platform.
